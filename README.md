@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working  ** @wpucouse **
 - 🌱 I’m currently learning  [**Laravel**](https//laravel.com)framework
 - 😁😁😁😁
-## Turu dulu 💤
 ![Turu dulu](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt5dms3Y3l6dTR0dmNmYTZiYml3OXk4cGNpd240M2JmNGR4OXNydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4EoZ1rJtDfypcna8/giphy.gif)
