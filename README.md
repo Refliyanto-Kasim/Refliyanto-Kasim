@@ -1,5 +1,5 @@
 ## Hello Word i'm Refliyanto Kasim 👋
-![Refliyanto Kasim](Acer_Wallpaper_05_3840x2400)
+![Refliyanto Kasim](./Acer_Wallpaper_05_3840x2400)
 
 <!--
 **Refliyanto-Kasim/Refliyanto-Kasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
